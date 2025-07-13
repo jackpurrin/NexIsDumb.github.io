@@ -1,0 +1,19 @@
+@import url(vars.css);
+
+body {
+    background-color: var(--bkg-clr);
+    color: var(--txt-clr);
+    text-align: center;
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+a {
+    color: var(--link-clr);
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
